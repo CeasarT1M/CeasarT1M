@@ -2,7 +2,7 @@
 
 # Portfolio
 
-Hi, I'm Timothy Chukwu and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my SIEM Implementation and Log Analysis and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
+Hi, I'm Timothy Chukwu and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my skills as a Digital Forensics analyst and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
 
 
 # Project Overview 
